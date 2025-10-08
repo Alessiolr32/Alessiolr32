@@ -33,8 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessiolr32&layout=compact&hide_title=true&theme=dark" />
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Alessiolr32&theme=onedark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alessiolr32&theme=dark&hide_border=true" />
 </p>
 
 ---
