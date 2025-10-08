@@ -28,9 +28,9 @@
 ## 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alessiolr32&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api?username=Alessiolr32&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessiolr32&layout=compact&hide_title=true&theme=dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alessiolr32&theme=onedark" />
 </p>
 
 ---
