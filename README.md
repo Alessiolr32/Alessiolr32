@@ -1,8 +1,11 @@
-<p align="center">
-  <h1>👋 Ciao, sono Alessio La Rosa</h1>
-  🖥️ Appassionato di tecnologia, sviluppo web e videogiochi.<br>
-  💡 Sempre alla ricerca di nuove sfide nel mondo della programmazione.
-</p>
+<div align="center">
+
+# 👋 Ciao, sono Alessio La Rosa
+
+🖥️ Appassionato di tecnologia, sviluppo web e videogiochi.  
+💡 Sempre alla ricerca di nuove sfide nel mondo della programmazione.
+
+</div>
 
 ---
 
@@ -15,9 +18,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Livewire-4E5EE4?style=flat-square&logo=livewire&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
@@ -37,13 +37,13 @@
 ## 📧 Contatti
 
 <p align="center">
-  <a href="mailto:alessiolr32@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/alessio-la-rosa-frontenddeveloper/">LinkedIn</a> •
+  <a href="mailto:alessiolr32@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/alessio-la-rosa-frontenddeveloper/">LinkedIn</a> • 
   <a href="https://portfolio-la-rosa-alessio.netlify.app/">Portfolio Online</a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad." <br/>— Cory House</em>
+  <em>"Code is like humor. When you have to explain it, it’s bad." <br/>- Cory House</em>
 </p>
