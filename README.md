@@ -33,7 +33,7 @@
 ## 📧 Contatti
 
 - Email: [alessiolr32@gmail.com](mailto:alessiolr32@gmail.com)
-- LinkedIn: [Alessio La Rosa]([(https://www.linkedin.com/in/alessio-la-rosa-frontenddeveloper/)](https://www.linkedin.com/in/alessio-la-rosa-frontenddeveloper/))
+- LinkedIn: [Alessio La Rosa](https://www.linkedin.com/in/alessio-la-rosa-frontenddeveloper/)
 - Sito web: [Portfolio Online](https://portfolio-la-rosa-alessio.netlify.app/)
 
 ---
